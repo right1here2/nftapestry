@@ -1,0 +1,19 @@
+{
+  "name": "nftapestry",
+  "version": "1.0.1",
+  "description": "A versatile tool for fetching and displaying NFT collections.",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"No tests specified\""
+  },
+  "dependencies": {
+    "axios": "^0.21.1",
+    "web3": "^1.3.5"
+  },
+  "author": "right1here2",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/right1here2/nftapestry"
+  }
+}
